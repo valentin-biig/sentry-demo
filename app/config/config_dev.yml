@@ -22,7 +22,7 @@ monolog:
             bubble: false
         sentry:
             type:   raven
-            dsn:    mydsn
+            dsn:    https://f6ae014c4f29490e9460009bcbb28ae4:1d1c220f63a44400ad3e1a04c8d0f087@sentry.io/175222
             level:  info
         # uncomment to get logging in your browser
         # you may have to allow bigger header sizes in your Web server configuration

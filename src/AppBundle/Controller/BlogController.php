@@ -55,6 +55,8 @@ class BlogController extends Controller
         // coucou
         // recoucou
         // blabla
+        // task1
+        // task2
         // Every template name also has two extensions that specify the format and
         // engine for that template.
         // See https://symfony.com/doc/current/templating.html#template-suffix

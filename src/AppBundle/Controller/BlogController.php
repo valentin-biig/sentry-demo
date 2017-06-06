@@ -54,6 +54,7 @@ class BlogController extends Controller
         // test feature
         // coucou
         // recoucou
+        // blabla
         // Every template name also has two extensions that specify the format and
         // engine for that template.
         // See https://symfony.com/doc/current/templating.html#template-suffix
